@@ -1,7 +1,0 @@
-{
-  "name": "newapp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue"
-}
